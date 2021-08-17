@@ -27,6 +27,10 @@ else if(pnl<0)
     backgroundimageVar="url('./images/cry-tears.gif')";
     setGif();
 }
+else{
+    showOutputMsg="No change in PnL"
+
+}
 }
 else
 {
